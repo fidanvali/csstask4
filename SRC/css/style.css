@@ -1,0 +1,138 @@
+.first{
+    background-image: url(../img/bg-masthead.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding:20rem ;
+    text-align: center;
+
+}
+
+.first h1{
+    font-size: 65px;
+    color: #fff;
+    
+}
+
+.first h3{
+    font-size: 20px;
+    color: #fff;
+}
+
+.first h4{
+width: 50px; 
+margin: auto;
+border: 2px; 
+
+
+}
+.btnbtn1{
+    background-color:#F4623A;
+    color: #fff;
+    padding: 18px;
+ text-decoration: none;
+ margin: auto;
+ border-radius: 30px;
+}
+.btnbtn1:hover:hover{
+    background:#462117 ;
+    color:#F4623A ;
+}
+.second{
+    background-color: #F4623A;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    padding: 13rem;
+}
+
+
+.second h3{
+    font-size: 40px;
+    color: #fff;
+    margin:auto
+}
+.second h5{
+    font-size: 20px;
+    color: #fff;
+    margin:auto;
+}
+.btnbtn2{
+    background-color:#fff;
+    color:black;
+    padding: 18px;
+    text-decoration: none;
+    margin:auto;
+    border-radius: 30px;
+}
+.btnbtn2:hover:hover{
+    background:#e4d4d0 ;
+    color:#fff ;
+}
+.second h6{
+    width: 50px;
+    height: 15px;
+    color: #fff;
+    margin:auto;
+    border: 5px;
+}
+.third{
+    background-color: #000;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    text-align:center;
+    padding:100px;
+}
+.third h1{
+    font-size: 20px;
+    color: #fff;
+}
+.btnbtn3 {
+    background-color: #fff;
+    color: #000;
+    padding: 25px;
+    text-decoration: none;
+    margin:auto;
+    border-radius: 30px;
+    padding-bottom: 30px ;
+}
+.btnbtn3:hover{
+    background:#e4d4d0 ;
+    color: #fff;
+}
+.forth{
+    background-color: #fff;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center ;
+    text-align: center;
+    padding: 40px;
+}
+.forth h6{
+    width: 50px; 
+    margin: auto;
+    border: 2px; 
+    
+}
+.forth h2{
+    border-radius: 15px;
+}
+.btnbtn4{
+background-color: #F4623A;
+color: #fff;
+text-decoration: none;
+margin:auto;
+border-radius: 40px;
+font: 1em sans-serif;
+padding:2rem;
+display: inline-block;
+width: 300px;
+}
+.textarea{
+    resize: none;
+}
+.forth h5{
+  
+}
